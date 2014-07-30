@@ -6,7 +6,7 @@
     "install": "msbuild CordovaDeploy.sln /nologo /p:Configuration=Release"
   },
   "bin": {
-    "cordovadeploy": "CordovaDeploy\bin\Release\CordovaDeploy.exe"
+    "cordovadeploy": "CordovaDeploy\\bin\\Release\\CordovaDeploy.exe"
   },
   "repository": {
     "type": "git",
