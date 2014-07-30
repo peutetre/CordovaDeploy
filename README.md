@@ -20,9 +20,34 @@
 -->
 
 
-CordovaDeploy cli, extracted from the **Apache Cordova for Windows Phone 8**
+CordovaDeploy cli
 ===
+
+extracted from the **Apache Cordova for Windows Phone 8**
 
 [Original Repository](https://git-wip-us.apache.org/repos/asf?p=cordova-wp8.git)
 
 So, it works only on windows
+
+### Install
+
+```
+npm install cordova-deploy-windows-phone
+```
+
+### Usage
+
+```
+$cordovadeploy
+
+Usage: CordovaDeploy [ -devices  BuildOutputPath -d:DeviceIndex -uninstall ]
+    -devices : lists the devices and exits
+    BuildOutputPath : path to the built application, typically Bin/Debug/ or Bin/Release/
+    -d         : index of the device to deploy, default is 0
+    -uninstall : will uninstall the application before re-installing it, removing all app documents a
+nd temp files
+examples:
+  CordovaDeploy -devices
+  CordovaDeploy Bin/Debug
+  CordovaDeploy Bin/Release -d:1
+```
