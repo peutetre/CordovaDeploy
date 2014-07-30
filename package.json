@@ -1,5 +1,5 @@
 {
-  "name": "CordovaDeploy",
+  "name": "cordova-deploy-windows-phone",
   "version": "3.5.0",
   "description": "CordovaDeploy cli, extracted from Apache Cordova for Windows Phone 8",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/peutetre/CordovaDeploy.git"
+    "url": "https://github.com/peutetre/cordova-deploy-windows-phone.git"
   },
   "keywords": [
     "cordova",
@@ -21,7 +21,7 @@
   "author": "see https://git-wip-us.apache.org/repos/asf?p=cordova-wp8.git",
   "license": "apache 2",
   "bugs": {
-    "url": "https://github.com/peutetre/CordovaDeploy/issues"
+    "url": "https://github.com/peutetre/cordova-deploy-windows-phone/issues"
   },
-  "homepage": "https://github.com/peutetre/CordovaDeploy"
+  "homepage": "https://github.com/peutetre/cordova-deploy-windows-phone"
 }
