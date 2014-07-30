@@ -23,4 +23,4 @@
 CordovaDeploy cli, extracted from the **Apache Cordova for Windows Phone 8**
 ===
 
-[Original Repository](git://git.apache.org/cordova-wp8.git)
+[Original Repository](https://git-wip-us.apache.org/repos/asf?p=cordova-wp8.git)
