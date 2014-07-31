@@ -1,6 +1,6 @@
 {
   "name": "cordova-deploy-windows-phone",
-  "version": "3.5.0-1",
+  "version": "3.5.0-2",
   "description": "CordovaDeploy cli, extracted from Apache Cordova for Windows Phone 8",
   "scripts": {
     "preinstall": "msbuild CordovaDeploy.sln /nologo /p:Configuration=Release"

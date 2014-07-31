@@ -23,7 +23,7 @@
 CordovaDeploy cli
 ===
 
-extracted from the **Apache Cordova for Windows Phone 8**
+extracted from **Apache Cordova for Windows Phone 8**
 
 [Original Repository](https://git-wip-us.apache.org/repos/asf?p=cordova-wp8.git)
 
@@ -32,13 +32,13 @@ So, it works only on windows
 ### Install
 
 ```
-npm install cordova-deploy-windows-phone
+npm install cordova-deploy-windows-phone -g
 ```
 
 ### Usage
 
 ```
-$cordovadeploy
+cordovadeploy
 
 Usage: CordovaDeploy [ -devices  BuildOutputPath -d:DeviceIndex -uninstall ]
     -devices : lists the devices and exits
